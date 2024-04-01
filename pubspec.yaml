@@ -1,7 +1,7 @@
 name: basic_zoom_drawer
-description: "Description here"
+description: "basic zoom drawer view with June"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/basic_zoom_drawer
 
 version: 1.0.0+1
 
