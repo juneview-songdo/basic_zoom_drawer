@@ -15,7 +15,7 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/basic_zoom_drawer/_/view.dart -d chrome
     ```
 
 ## Screenshots
